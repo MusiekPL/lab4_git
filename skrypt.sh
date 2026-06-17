@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # skrypt.sh - Skrypt do laboratorium Git
-# Autor: Student
-# Data: $(date +%Y-%m-%d)
+# Autor: Mateusz Styk 60373
+# Data: $(date +%2026-%06-%17)
 
 SCRIPT_NAME=$(basename "$0")
 
