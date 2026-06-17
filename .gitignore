@@ -1,0 +1,4 @@
+*log*
+git add skrypt.sh .gitignore
+git commit -m "feat: inicjalizacja projektu"
+git push -u origin main
