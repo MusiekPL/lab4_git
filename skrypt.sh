@@ -122,3 +122,4 @@ case "$1" in
 esac
 # feature: short flags -d -l -h
 # feature: --init
+# feature: --error -e
